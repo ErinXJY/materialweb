@@ -1,4 +1,5 @@
-# Material Web https://codebeat.co/projects/github-com-folgore95-materialweb-master#
+# Material Web 
+[![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/folgore95/materialweb/blob/master/LICENSE)
 <img src="https://github.com/folgore95/media/blob/master/materialweb.png"/>
 
 ## About

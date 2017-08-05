@@ -1,5 +1,5 @@
 # Material Web 
-<img src="https://github.com/folgore95/materialweb/blob/master/example.png"/>
+<img src="https://github.com/folgore95/media/blob/master/materialweb.png"/>
 
 ## About
 

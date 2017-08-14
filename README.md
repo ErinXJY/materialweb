@@ -1,6 +1,4 @@
-# Material Web 
-[![codebeat badge](https://codebeat.co/badges/6777a1ab-afc5-4dd5-8080-dfa8ecce21d3)](https://codebeat.co/projects/github-com-folgore95-materialweb-master)
-[![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/folgore95/materialweb/blob/master/LICENSE)
+# Material Web  [![codebeat badge](https://codebeat.co/badges/6777a1ab-afc5-4dd5-8080-dfa8ecce21d3)](https://codebeat.co/projects/github-com-folgore95-materialweb-master)[![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/folgore95/materialweb/blob/master/LICENSE)
 <img src="https://github.com/folgore95/media/blob/master/materialweb.png"/>
 
 ## About
